@@ -39,6 +39,7 @@ public class UserController {
 
     @RequestMapping("/index")
     public ModelAndView index(){
+        System.out.println("测试一下有没有不同代码");
         return new ModelAndView("index");
     }
 }
