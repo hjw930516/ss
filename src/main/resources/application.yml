@@ -34,7 +34,7 @@ spring:
         charset: UTF-8
         enabled : true
   thymeleaf:
-    prefix: classpath:/templates/WEB-INF/views/
+    prefix: classpath:/templates/
     suffix: .html
     mode: HTML5
     encoding: UTF-8
