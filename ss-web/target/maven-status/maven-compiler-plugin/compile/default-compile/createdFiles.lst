@@ -1,0 +1,5 @@
+com\huz\hjw\controller\ProcessOwnController.class
+com\huz\hjw\controller\IndexController.class
+com\huz\hjw\controller\PersonController.class
+com\huz\hjw\controller\UserController.class
+com\huz\hjw\BootsyApplication.class
